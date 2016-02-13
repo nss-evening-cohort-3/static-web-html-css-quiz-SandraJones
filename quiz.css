@@ -1,0 +1,95 @@
+/*h2.block1 {
+	background-color: grey;
+	color: yellow;
+}
+h1.cardtitle {
+	border: 2px solid blue;
+	border-bottom: 1px dashed grey;
+}
+p.styleP { 
+}*/
+body {
+	font-weight: 700;
+	border: 1px solid aqua;
+	margin-right: 40em;	
+}
+.limits {
+	font-weight: 500;
+}
+.cardTitle {
+	font-size: 36px;
+	text-align: center;
+	/*border: 1px solid black;*/
+}
+/*container {
+	border: 1px solid black;
+}*/
+h1 {
+	background-color: white;
+}
+h1.cardTitle {
+	font-size: 20px;
+	padding: 1px;
+	border-bottom: 1px dotted grey;
+}
+container.crunch {
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	margin: 50%
+}
+/*div {
+	display: block;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}*/
+.grey {
+	background-color: gray;
+	color: yellow;
+	padding: 1px;
+}
+.specs {
+	text-indent: 5px;
+}
+.numerics {
+	text-indent: 10px;
+}
+.pink {
+	width: 40%;
+	margin-left: 30%;
+}
+.blue {
+	width: 40%;
+	margin-left: 30%;
+}
+.red {
+	width: 40%;
+	margin-left: 30%;
+}
+.yellow {
+	width: 40%;
+	margin-left: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
